@@ -71,3 +71,11 @@ select{
     width:auto !important;
     width:3.5em !important;
 }
+img{
+    width:150px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
